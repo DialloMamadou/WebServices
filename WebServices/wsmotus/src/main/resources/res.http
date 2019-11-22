@@ -1,0 +1,31 @@
+POST http://localhost:8080/motus/joueur?pseudo=cd
+Accept: */*
+Cache-Control: no-cache
+
+
+###
+POST http://localhost:8080/motus/partie?pseudo=cd&dicoName=dicosimple7lettres
+Accept: */*
+Cache-Control: no-cache
+
+###
+PUT http://localhost:8080/motus/partie?pseudo=cd&mot=deviner
+Accept: */*
+Cache-Control: no-cache
+
+###
+GET http://localhost:8080/motus/listDico
+Accept: */*
+Cache-Control: no-cache
+
+###
+GET http://localhost:8080/motus/listEssai?pseudo=cd
+Accept: */*
+Cache-Control: no-cache
+
+###
+DELETE http://localhost:8080/motus/joueur?pseudo=cd
+Accept: */*
+Cache-Control: no-cache
+
+###

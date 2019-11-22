@@ -1,0 +1,9 @@
+/media/mcd/MCD/M1Informatique/S2/WS/wsi/modelemotus/src/main/java/exceptions/MotInexistantException.java
+/media/mcd/MCD/M1Informatique/S2/WS/wsi/modelemotus/src/main/java/exceptions/PseudoDejaPrisException.java
+/media/mcd/MCD/M1Informatique/S2/WS/wsi/modelemotus/src/main/java/facade/FacadeMotus.java
+/media/mcd/MCD/M1Informatique/S2/WS/wsi/modelemotus/src/main/java/modele/Joueur.java
+/media/mcd/MCD/M1Informatique/S2/WS/wsi/modelemotus/src/main/java/facade/FacadeMotusStatic.java
+/media/mcd/MCD/M1Informatique/S2/WS/wsi/modelemotus/src/main/java/modele/Partie.java
+/media/mcd/MCD/M1Informatique/S2/WS/wsi/modelemotus/src/main/java/exceptions/MaxNbCoupsException.java
+/media/mcd/MCD/M1Informatique/S2/WS/wsi/modelemotus/src/main/java/modele/Dico.java
+/media/mcd/MCD/M1Informatique/S2/WS/wsi/modelemotus/src/main/java/exceptions/PseudoNonConnecteException.java
